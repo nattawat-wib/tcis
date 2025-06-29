@@ -1,0 +1,60 @@
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## Visual Studio
+.vs/
+.vscode/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Others
+*.dbmdl
+*.bak
+*.log
+*.pdb
+*.mdb
+*.cache
+*.zip
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+# Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Runtime
+*.dll
+*.exe
+
+# Config files
+appsettings.Development.json
+secrets.json
+
+# Test results
+TestResults/
+*.TestResults.xml
+coverage/
+
+# Publish
+publish/
+wwwroot/dist/
